@@ -11,6 +11,8 @@
 	Hello world!  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  The time on the server is ${serverTime}. 
+	준형 수정
+</P>
 </body>
 </html>
