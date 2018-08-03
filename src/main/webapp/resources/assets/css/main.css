@@ -1960,6 +1960,12 @@
 			box-shadow: inset 0 0 0 2px #e5474b;
 			color: #e5474b !important;
 		}
+		
+		.button.alt1 {
+			background-color: transparent;
+			box-shadow: inset 0 0 0 2px #e5474b;
+			color: white;
+		}
 
 			input[type="submit"].alt:hover,
 			input[type="reset"].alt:hover,

@@ -5,8 +5,7 @@
 <html>
 <head>
 <title>Home</title>
-<link rel="stylesheet"
-	href="./resources/assets/css/font-awesome.min.css">
+<link rel="stylesheet" href="./resources/assets/css/font-awesome.min.css">
 <link rel="stylesheet" href="./resources/assets/css/main.css">
 <script src="./resources/assets/js/jquery.min.js"></script>
 <script src="./resources/assets/js/main.js"></script>
@@ -19,9 +18,11 @@
 		<div class="inner">
 			<a href="index.html" class="logo"> JK's Bed & Breakfast </a>
 			<nav id="nav">
-				<a href="index.html">Home</a> 
-				<a href="generic.html">Generic</a> 
-				<a href="elements.html">Elements</a>
+				<a href="/">Home</a> 
+				<a href="board/boardList">Community</a> 
+				<a href="shopping/home">Shopping Mall</a>
+				<a href="registration/login" class="button alt1">Login</a>
+				<a></a>
 			</nav>
 		</div>
 	</header>
